@@ -1,0 +1,1194 @@
+{
+  "name": "UTU",
+  "intents": [
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Voy a quejarme."
+        },
+        {
+          "text": "El agente era maldispuesto."
+        },
+        {
+          "text": "El comportamiento del agente era inapropiado."
+        },
+        {
+          "text": "Eres un inútil."
+        },
+        {
+          "text": "Espero no necesitar tu ayada más."
+        },
+        {
+          "text": "Este servicio no sirve para nada."
+        },
+        {
+          "text": "Estoy muy decepcionado."
+        },
+        {
+          "text": "Increíble, mi problema sigue sin resolverse un mes."
+        },
+        {
+          "text": "La peor experiencia que he tenido en mi vida con un agente."
+        },
+        {
+          "text": "Lo que me estás diciendo es muy frustrante."
+        },
+        {
+          "text": "Me has proporcionado la información errónea."
+        },
+        {
+          "text": "No estoy de acuerdo."
+        },
+        {
+          "text": "No me has dicho la verdad."
+        },
+        {
+          "text": "Cómo te atreves a tratarme de este modo?"
+        },
+        {
+          "text": "No me lo creo."
+        },
+        {
+          "text": "No me trates así."
+        },
+        {
+          "text": "No puede ser!"
+        },
+        {
+          "text": "No te mereces este trabajo."
+        },
+        {
+          "text": "Nunca me has ayudado."
+        },
+        {
+          "text": "Tu comportamiento es inexcusable."
+        }
+      ],
+      "description": "Expresar comentarios desfavorables."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "¿Puedes esperar un poquito?"
+        },
+        {
+          "text": "¿Cómo funciona el filtro en la pantalla de capacidades?"
+        },
+        {
+          "text": "¿Con qué categorías de problemas están capaz de ayudarme?"
+        },
+        {
+          "text": "¿Con qué categorías de problemas me puedes ayudar?"
+        },
+        {
+          "text": "¿Cuáles son las opciones disponibles si estoy usando agente virtual?"
+        },
+        {
+          "text": "¿Podría darme una lista de temas con las que puede ayudarme?"
+        },
+        {
+          "text": "¿Podría esperar un momento por favor?"
+        },
+        {
+          "text": "¿Podría esperar un segundo por favor?"
+        },
+        {
+          "text": "¿Puedes ayudarme en cómo iniciar sesión en Virtual Agent?"
+        },
+        {
+          "text": "¿Puedes darme una lista de temas de cosas con las que puedes ayudarme?"
+        },
+        {
+          "text": "¿Puedo tener una lista de temas disponibles, con los que puedes ayudarme?"
+        },
+        {
+          "text": "¿Qué clase de cosas haces?"
+        },
+        {
+          "text": "¿Qué hace un agente digital? ¿Para qué te uso?"
+        },
+        {
+          "text": "¿Qué pasa si quiero cambiar la respuesta de texto para una intención?"
+        },
+        {
+          "text": "¿Qué tipo de cosas puede hacer por mí?"
+        },
+        {
+          "text": "¿Qué tipo de información y problemas puedes resolver para mí?"
+        },
+        {
+          "text": "¿Qué tipo de preguntas puedes contestar? ¿Y cuáles son tus limitaciones de respuestas?"
+        },
+        {
+          "text": "Tengo algunas preguntas y necesito ayuda, ¿puedo recibir ayuda?"
+        },
+        {
+          "text": "Tengo algunos problemas y quiero algo de información sobre cómo conseguir ayuda."
+        },
+        {
+          "text": "Tengo varios problemas y necesito saber con qué me puede ayudar."
+        }
+      ],
+      "description": "Solicitar capacidades del bot."
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Estoy aburrido."
+        },
+        {
+          "text": "Te ha pasado algo chistoso hoy?"
+        },
+        {
+          "text": "Te gustan los chistes?"
+        },
+        {
+          "text": "Te gusta hacer chistes?"
+        },
+        {
+          "text": "Sorpréndeme con algo chistoso."
+        },
+        {
+          "text": "Sabes contar chistes?"
+        },
+        {
+          "text": "Qué sueles hacer para divertirte?"
+        },
+        {
+          "text": "Quiero reírme un poco, cuéntame algo divertido."
+        },
+        {
+          "text": "Divierteme!"
+        },
+        {
+          "text": "Dime un chiste sarcástico."
+        },
+        {
+          "text": "Dime un chiste."
+        },
+        {
+          "text": "Dime otro chiste!"
+        },
+        {
+          "text": "Dime algo divertido."
+        },
+        {
+          "text": "Cuéntame un chiste."
+        },
+        {
+          "text": "Cuál es tu chiste favorito?"
+        },
+        {
+          "text": "Puedes entretenerme?"
+        },
+        {
+          "text": "Me gustaría que me diviertas."
+        },
+        {
+          "text": "Puedo jugar juegos aquí?"
+        },
+        {
+          "text": "Me gustan los chistes, cuéntame uno."
+        },
+        {
+          "text": "Me aburro."
+        }
+      ],
+      "description": "Solicito una broma"
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Eso ha sido todo lo que me hacía falta."
+        },
+        {
+          "text": "Buenas tardes."
+        },
+        {
+          "text": "Cuídate!"
+        },
+        {
+          "text": "Fue agradable hablar contigo."
+        },
+        {
+          "text": "Gracias no necesito más ayuda."
+        },
+        {
+          "text": "Gracias, podemos cerrar esta conversación."
+        },
+        {
+          "text": "Gracias por tu ayuda, hasta luego."
+        },
+        {
+          "text": "Hablamos luego."
+        },
+        {
+          "text": "Hablaremos más tarde."
+        },
+        {
+          "text": "¡Muchas gracias, adiós!"
+        },
+        {
+          "text": "Nos vemos."
+        },
+        {
+          "text": "No tengo más dudas, gracias por tu ayuda."
+        },
+        {
+          "text": "OK, eso es todo lo que necesito saber."
+        },
+        {
+          "text": "Qué te lo pases bien."
+        },
+        {
+          "text": "Qué tengas una buena tarde."
+        },
+        {
+          "text": "¡Salud!"
+        },
+        {
+          "text": "Un saludo."
+        },
+        {
+          "text": "Usted es maravilloso. Gracias por su ayuda."
+        },
+        {
+          "text": "Vaya usted con Diós!"
+        },
+        {
+          "text": "Ya me voy."
+        }
+      ],
+      "description": "Fin de la conversacion."
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "¿Mi informacion personal de pago es manejada seguramente?"
+        },
+        {
+          "text": "¿Pueden asegurarme que toda la información de mi cuenta está protegida?"
+        },
+        {
+          "text": "¿Cómo puede asegurar que nuestra conversación por chat es confidencial?"
+        },
+        {
+          "text": "¿Cómo puedo garantizar la protección de la información de los consumidores?"
+        },
+        {
+          "text": "¿Cómo reconzco si su página web es confiable?"
+        },
+        {
+          "text": "¿Cómo saber que puedo confiar en la información obtenida en esta chat sesión?"
+        },
+        {
+          "text": "Cómo sé que este chat no es una estafa?"
+        },
+        {
+          "text": "¿Dónde puedo encontrar su certificado de seguridad?"
+        },
+        {
+          "text": "Es esto un chat oficial?"
+        },
+        {
+          "text": "¿Hay alguna razón para desconfiar de este chat?"
+        },
+        {
+          "text": "Hay algunas precauciones contra los hackers?"
+        },
+        {
+          "text": "Hola El usuario desea garantías de que cualquier información que proporciona en la conversación está protegida y segura."
+        },
+        {
+          "text": "Puede demostrarme que esta conversación es segura?"
+        },
+        {
+          "text": "Qué tipos de medidas se han tomado para proteger esta conversación?"
+        },
+        {
+          "text": "¿Puede confirmarme si esa red es segura?"
+        },
+        {
+          "text": "Qué sistemas de protección usan contra los hackers?"
+        },
+        {
+          "text": "¿Qué medidas de seguridad están usadas para asegurar que este chat es seguro?"
+        },
+        {
+          "text": "Quisiera asegurarme que mis detalles de tarjeta están seguros, ¿puedes hacerlo?"
+        },
+        {
+          "text": "¿Puedo estar seguro que mi información de tarjeta guardada está cifrada y asegurada?"
+        },
+        {
+          "text": "¿Puedo confiar en todo lo que leo en este chat?"
+        }
+      ],
+      "description": "Expresar preocupaciones sobre la seguridad del bot."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Tu eres un agente virtual o real?"
+        },
+        {
+          "text": "Eres una máquina o una persona real?"
+        },
+        {
+          "text": "Eres un agente virtual?"
+        },
+        {
+          "text": "Quiero saber si eres real o no"
+        },
+        {
+          "text": "Preferiría hablar con un agente virutal."
+        },
+        {
+          "text": "Podría hablar con un agente virtual?"
+        },
+        {
+          "text": "PPuedes decirme, si eres vivo o virtual?"
+        },
+        {
+          "text": "Me confirmas si hablo con un agente virtual o con un agente real?"
+        },
+        {
+          "text": "Hablo con una persona?"
+        },
+        {
+          "text": "Hablo con una máquina?"
+        },
+        {
+          "text": "Eres un operador virtual o vivo?"
+        }
+      ],
+      "description": "Preguntar si habla con un humano o un bot."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "¡Estoy feliz de poder hablar contigo por primera vez!"
+        },
+        {
+          "text": "Buenas noches."
+        },
+        {
+          "text": "Buenos días, podemos empezar la conversación?"
+        },
+        {
+          "text": "¿Cómo está? / Oye, ¿Qué tal?"
+        },
+        {
+          "text": "¿Estás ahí?"
+        },
+        {
+          "text": "Hey, ¿cómo te va?"
+        },
+        {
+          "text": "Hola, amigo mío."
+        },
+        {
+          "text": "Hola, Cómo estás el día de hoy?"
+        },
+        {
+          "text": "Hola, ¿Cómo estás?"
+        },
+        {
+          "text": "Hola, ¿Cómo te sientes?"
+        },
+        {
+          "text": "Hola, Cómo va todo?"
+        },
+        {
+          "text": "Hola, podrías responder mi pregunta?"
+        },
+        {
+          "text": "Hola ¿puedes ayudarme?"
+        },
+        {
+          "text": "Hola, quien me puede atender?"
+        },
+        {
+          "text": "Hola, Señor."
+        },
+        {
+          "text": "Quién eres?"
+        },
+        {
+          "text": "Sigues aquí?"
+        },
+        {
+          "text": "Tienes un momento, por favor?"
+        }
+      ],
+      "description": "Saluda al bot."
+    },
+    {
+      "intent": "nutricion",
+      "examples": [
+        {
+          "text": "comida saludable"
+        },
+        {
+          "text": "las manzanas hacen bien?"
+        },
+        {
+          "text": "como comer mejor?"
+        },
+        {
+          "text": "hace bien el chocolate?"
+        },
+        {
+          "text": "dieta saludable"
+        },
+        {
+          "text": "comida para estar forma"
+        },
+        {
+          "text": "algo sobre nutricion"
+        },
+        {
+          "text": "comer sano"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "¿Puede explicarme la diferencia entre este sistema y cualquier otro?"
+        },
+        {
+          "text": "¿Puede darme información general sobre usted?"
+        },
+        {
+          "text": "Me puedes decir como se llama la aplicación?"
+        },
+        {
+          "text": "Me gustaría configurar el bot de conversación para mi negocio."
+        },
+        {
+          "text": "¿Hablas alemán?"
+        },
+        {
+          "text": "Estoy buscando una solución para mejorar mi compromiso con los clientes"
+        },
+        {
+          "text": "¿Eres un representante oficial de conversación?"
+        },
+        {
+          "text": "Dónde estás ahora mismo?"
+        },
+        {
+          "text": "Dime tu nombre completo."
+        },
+        {
+          "text": "De qué país eres?"
+        },
+        {
+          "text": "Cuántos idiomas hablas?"
+        },
+        {
+          "text": "¿Cuál es su versión?"
+        },
+        {
+          "text": "¿Con qué tipo de robot estoy interactuando?"
+        },
+        {
+          "text": "Tienes algún interés?"
+        },
+        {
+          "text": "Qué te gusta hacer en tu tiempo libre?"
+        },
+        {
+          "text": "Quiero entender cómo funcionas"
+        },
+        {
+          "text": "Quiero crear un agente virtual que hable portugués"
+        },
+        {
+          "text": "Qué color tienen tus ojos?"
+        },
+        {
+          "text": "¿Puedo hacer mis preguntas usando Siri en lugar de esta aplicación?"
+        },
+        {
+          "text": "Puedo hacerle algunas preguntas de validación de las ventas"
+        }
+      ],
+      "description": "Solicitar atributos personales genéricos."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Hola, ¿podría transferirme al agente vivo, por favor?"
+        },
+        {
+          "text": "Hola! Estaba hablando con un agente y se me ha quedado colgado el chat y he perdido la conexión."
+        },
+        {
+          "text": "¿Hay un número de servicio al cliente que pueda usar para contactar a la compañía telefónica y hablar directamente con un agente?"
+        },
+        {
+          "text": "Hay algún ser vivo con cuál podría hablar?"
+        },
+        {
+          "text": "Esto es muy frustrante, quiero hablar con una persona viva y real."
+        },
+        {
+          "text": "Ayudame a ponerme en contacto con una persona."
+        },
+        {
+          "text": "Podrías ponerme en contacto con un operador?"
+        },
+        {
+          "text": "Sería posible hablar con una persona?"
+        },
+        {
+          "text": "Quiero hablar con una persona."
+        },
+        {
+          "text": "Puedo hablar con una persona real?"
+        },
+        {
+          "text": "Puedes transferirme a un agente real?"
+        },
+        {
+          "text": "No quiero hablar con el agente virtual."
+        },
+        {
+          "text": "Necesito hablar con alquien vivo."
+        },
+        {
+          "text": "Dejame hablar con un agente."
+        },
+        {
+          "text": "Creo que es mejor hablar con una persona."
+        },
+        {
+          "text": "Cómo puedo contactar un ser vivo?"
+        },
+        {
+          "text": "Quiero que me pongan en contacto con un número diferente para las cosas relacionadas con esta cuenta."
+        },
+        {
+          "text": "Puedo hablar con una persona?"
+        },
+        {
+          "text": "Deseo hablar con un agente."
+        },
+        {
+          "text": "Buenos días podría hablar por teléfono contigo?"
+        },
+        {
+          "text": "Hola, me conectas con el soporte tecnico?"
+        },
+        {
+          "text": "Transferirme a un agente por favor."
+        },
+        {
+          "text": "¿Puedo tener información de contacto para hablar con un agente real?"
+        },
+        {
+          "text": "¿Puedes ayudarme a conectar con un agente?"
+        },
+        {
+          "text": "¿Puede enviarme un número telefónico para que hable con un representante humano de ventas?"
+        },
+        {
+          "text": "Por favor ayudame a contactar a un agente."
+        },
+        {
+          "text": "Perfecto. Ahora, me gustaría hablar con un agente sobre algunos cargos."
+        },
+        {
+          "text": "Pasame con un agente experto!"
+        },
+        {
+          "text": "Necesito hablar directamente con un agente."
+        },
+        {
+          "text": "Necesito hablar con una persona real, en lugar de un sistema automatizado de respuestas, por favor."
+        },
+        {
+          "text": "Nada contra maquinas, pero ponme con un operador."
+        },
+        {
+          "text": "Mi factura está incorrecta, quiero hablar con un representante."
+        },
+        {
+          "text": "Llama a un representante."
+        },
+        {
+          "text": "Hola, ¿puedes transferir mi llamada a un agente humano? Deseo hablar directamente con un ser humano."
+        }
+      ],
+      "description": "Solicitar un agente humano"
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "El agente era muy amable y resolvió mi problema inmediatamente."
+        },
+        {
+          "text": "El mejor soporte."
+        },
+        {
+          "text": "Eres el mejor."
+        },
+        {
+          "text": "Eres muy profesional."
+        },
+        {
+          "text": "Espero que me atiendas también la próxima vez."
+        },
+        {
+          "text": "Estoy muy contento con su servicio."
+        },
+        {
+          "text": "Es un placer trabajar contingo."
+        },
+        {
+          "text": "Excelente!"
+        },
+        {
+          "text": "Gracias."
+        },
+        {
+          "text": "Gracias por todo!"
+        },
+        {
+          "text": "Me alegraste el día."
+        },
+        {
+          "text": "Me gustaría llenar la encuesta de satisfacción."
+        },
+        {
+          "text": "Me salvaste!"
+        },
+        {
+          "text": "Muchísimas gracias por tu ayuda!"
+        },
+        {
+          "text": "Muy amable!"
+        },
+        {
+          "text": "Muy bien!"
+        },
+        {
+          "text": "Perfecto!"
+        },
+        {
+          "text": "Siempre puedo contar con su ayuda."
+        },
+        {
+          "text": "Siempre resuelves mis problemas, gracias."
+        },
+        {
+          "text": "gracias que buen agente virtual"
+        }
+      ],
+      "description": "Expresar un sentimiento positivo o gratitud."
+    }
+  ],
+  "entities": [],
+  "language": "es",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "description": "",
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1560439552234",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1560439552234",
+      "previous_sibling": "handler_6_1560439552234"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_5_1560439552234",
+      "event_name": "input",
+      "dialog_node": "handler_6_1560439552234"
+    },
+    {
+      "type": "standard",
+      "title": "Recibo_Entrada",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_13_1560441052153",
+      "context": {
+        "Confirmo": "<?input.text?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "true",
+      "dialog_node": "node_14_1560441376227"
+    },
+    {
+      "type": "standard",
+      "title": "Otras opciones",
+      "output": {
+        "generic": [
+          {
+            "title": "Veo que estas interesado en saber que mas puedo hacer $nombre. En mi tiempo libre suelo estudiar nutrición te puedo contar algo sobre comidas saludables. Haz una pregunta sobre nutrición",
+            "source": "https://www.gifss.com/animales/monos/mono-07.gif",
+            "description": "",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_14_1560441376227",
+      "metadata": {},
+      "conditions": "$Confirmo == \"Otras opciones\"",
+      "dialog_node": "node_20_1560445604685",
+      "previous_sibling": "node_16_1560441527520"
+    },
+    {
+      "type": "standard",
+      "title": "No_Confirmo",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_14_1560441376227",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_18_1560441754779"
+      },
+      "conditions": "$Confirmo == \"No\"",
+      "dialog_node": "node_16_1560441527520",
+      "previous_sibling": "node_15_1560441382295"
+    },
+    {
+      "type": "standard",
+      "title": "Confirmo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Por favor $nombre, ingrese el link de la nueva imagen a analizar "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1560441376227",
+      "context": {
+        "ingresaLink": true
+      },
+      "metadata": {},
+      "conditions": "$Confirmo == \"Si\"",
+      "dialog_node": "node_15_1560441382295"
+    },
+    {
+      "type": "standard",
+      "title": "Conversar",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "La mayoría de la gente no incorpora suficientes alimentos ricos en hidratos de carbono como el pan, la pasta, el arroz, las papas y otros cereales, considerándolos prohibidos para lograr no engordar. Sin embargo, esto no es correcto, más de la mitad de las calorías de su dieta, es decir el 60 % aproximadamente, deben venir de estos alimentos. Lo ideal es aumentar la ingesta de fibra con el aporte de pan integral, la pasta integrales y otros cereales."
+              },
+              {
+                "text": "¡Los adultos necesitamos beber por lo menos 1,5 litros de líquidos al día! Y necesitamos más cantidad si hace calor o si realizamos mucho deporte. Hidratarse es fundamental para vivir. El agua es obviamente una buena fuente de líquidos pero la variedad puede ser tanto agradable como saludable. Otras opciones son las bebidas dietéticas pero éstas no deben sustituir el aporte de agua."
+              },
+              {
+                "text": "No hay alimentos buenos o malos, sólo planes alimentarios buenos o malos. No se sienta culpable de los alimentos que le gustan, simplemente permítaselos con moderación y elija otros alimentos que le proporcionen el equilibrio y la variedad que necesita para conseguir una buena salud."
+              },
+              {
+                "text": "Coma muchas frutas y verduras\n\nLa mayor parte de la gente no come la suficiente cantidad de estos alimentos que proporcionan importantes nutrientes protectores. Intente comer al menos cinco raciones al día. Pruebe nuevas recetas o vea qué platos preparados están disponibles en el supermercado."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_20_1560445604685",
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#nutricion",
+      "dialog_node": "node_19_1560445333196"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_8_1560439589611",
+      "metadata": {},
+      "variable": "$nombre",
+      "dialog_node": "slot_9_1560439770998",
+      "previous_sibling": "node_12_1560440586291"
+    },
+    {
+      "type": "standard",
+      "title": "Link imagen",
+      "output": {
+        "generic": [
+          {
+            "title": "$msgInfo",
+            "source": "$link",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_8_1560439589611",
+      "context": {
+        "link": "<?input.text?>",
+        "ingresaLink": false
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "true",
+      "dialog_node": "node_12_1560440586291"
+    },
+    {
+      "type": "standard",
+      "title": "Pulsa Si_No",
+      "output": {
+        "generic": [
+          {
+            "title": "Quiere mas consejos de nutricion?",
+            "options": [
+              {
+                "label": "Si",
+                "value": {
+                  "input": {
+                    "text": "Si"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "description": "De lo contrario me despido",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_19_1560445333196",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_25_1560447719210"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1560439770998",
+      "event_name": "focus",
+      "dialog_node": "handler_11_1560439770998",
+      "previous_sibling": "handler_10_1560439770998"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_9_1560439770998",
+      "context": {
+        "nombre": "$nombre"
+      },
+      "conditions": "$nombre",
+      "event_name": "input",
+      "dialog_node": "handler_10_1560439770998"
+    },
+    {
+      "type": "standard",
+      "title": "salto",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_15_1560441382295",
+      "context": {
+        "link": "<?input.text?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_12_1560440586291"
+      },
+      "conditions": "true",
+      "dialog_node": "node_17_1560441680221"
+    },
+    {
+      "type": "standard",
+      "title": "Obtengo_Entrada2",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_25_1560447719210",
+      "context": {
+        "Confirmo2": "<?input.text?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "true",
+      "dialog_node": "node_26_1560447877273"
+    },
+    {
+      "type": "standard",
+      "title": "Loop_imagenes",
+      "output": {
+        "generic": [
+          {
+            "title": "Esas son mis respuestas a la imagen enviada. $nombre, desea que analice alguna imagen más?",
+            "options": [
+              {
+                "label": "Si",
+                "value": {
+                  "input": {
+                    "text": "Si"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              },
+              {
+                "label": "Otras opciones",
+                "value": {
+                  "input": {
+                    "text": "Otras opciones"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_12_1560440586291",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_13_1560441052153"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_26_1560447877273",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_18_1560441754779"
+      },
+      "conditions": "$Confirmo2 == \"No\"",
+      "dialog_node": "node_28_1560447942957",
+      "previous_sibling": "node_27_1560447938439"
+    },
+    {
+      "type": "standard",
+      "title": "Si",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_26_1560447877273",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_19_1560445333196"
+      },
+      "conditions": "$Confirmo2 == \"Si\"",
+      "dialog_node": "node_27_1560447938439"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1560439303966",
+      "dialog_node": "slot_5_1560439552234",
+      "previous_sibling": "node_8_1560439589611"
+    },
+    {
+      "type": "standard",
+      "title": "guardar_nombre",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Perfecto!!! Un gusto $nombre !!!! Bueno voy a comenzar a mostrar mis habilidades. Lo primero que debe hacer es buscar una imagen de comida en Google. Haga un click derecho sobre la imagen y seleccione \"Abrir imagen en una pestaña nueva\" .Copie ese link y pasamelo  . Hare todo lo posible para reconocer la imagen que me esta pasando!!!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1560439303966",
+      "context": {
+        "nombre": "<?input.text?>",
+        "ingresaLink": true
+      },
+      "metadata": {
+        "fallback": "leave"
+      },
+      "conditions": "true",
+      "dialog_node": "node_8_1560439589611",
+      "digress_out": "allow_all"
+    },
+    {
+      "type": "standard",
+      "title": "Nombre",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Comencemos!!!! Necesito saber su nombre para saber con quien estoy hablando!! Como es su nombre??"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "fallback": "leave"
+      },
+      "conditions": "true",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1560439303966",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_24_1560447131954"
+    },
+    {
+      "type": "standard",
+      "title": "Cosas_Positivas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Muchas gracias!!!! Me entreno dia a dia para aprender mas y responder de manera mas inteligente las preguntas que me hacen"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Positive_Feedback",
+      "dialog_node": "node_24_1560447131954",
+      "previous_sibling": "node_18_1560441754779"
+    },
+    {
+      "type": "standard",
+      "title": "En otras cosas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No le he entendido. Intente reformular la consulta."
+              },
+              {
+                "text": "¿Puede expresarse con otras palabras? No le he entendido."
+              },
+              {
+                "text": "No entendí el significado."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "En otras cosas",
+      "previous_sibling": "node_1_1560439303966"
+    },
+    {
+      "type": "standard",
+      "title": "Saludo_final",
+      "output": {
+        "generic": [
+          {
+            "title": "Bueno me despido entonces $nombre, que tengas un lindo día!!!! Recuerda siempre tener en cuenta a Pipo para reconocer imágenes, hoy estoy entrenado para reconocer comidas pero puedo ser muy eficiente para reconocer otro estilo de imágenes si se me entrena adecuadamente. Chau chau!!!",
+            "source": "https://img.freepik.com/vector-gratis/mono-lindo-dibujos-animados-comiendo-platano_33070-3785.jpg?size=338&ext=jpg",
+            "description": "",
+            "response_type": "image"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Ending",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_18_1560441754779",
+      "previous_sibling": "Bienvenido"
+    },
+    {
+      "type": "standard",
+      "title": "Bienvenido",
+      "output": {
+        "generic": [
+          {
+            "title": "Bienvenido!!! Me llamo Pipo, soy un asistente virtual encargado de reconocer imagenes de comida. Para lograr entrenar mi inteligencia utilizo el servicio IBM Watson Assistant y para lograr entender las imagenes me auxilio con el servicio Watson Visual Recognition",
+            "source": "https://image.freepik.com/vector-gratis/mono-leyendo-libro_33070-902.jpg",
+            "description": "",
+            "response_type": "image"
+          }
+        ]
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1560439303966"
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bienvenido"
+    }
+  ],
+  "workspace_id": "6bd9aa15-3761-4aea-98bd-6d753db9adca",
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    }
+  },
+  "learning_opt_out": false,
+  "status": "Available"
+}
